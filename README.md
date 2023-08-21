@@ -1,7 +1,5 @@
 # Diwali Sale Prediction Data Analysis
 
-![Diwali Sale](diwali_sale_image.jpg)
-
 This repository contains code and analysis for predicting Diwali sale trends using data analysis techniques. Diwali is one of the most significant festivals in India, marked by increased shopping and sales across various industries. This project aims to analyze historical Diwali sales data and build a predictive model to estimate the sales for upcoming Diwali festivals.
 
 ## Table of Contents
